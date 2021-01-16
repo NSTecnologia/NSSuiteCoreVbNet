@@ -21,7 +21,7 @@ Namespace NSSuiteCoreVbNet.Tests.Emissoes
                             .natOp = "VENDA A PRAZO - S",
                             .[mod] = TMod.NFe,
                             .serie = "16",
-                            .nNF = "102",
+                            .nNF = "104",
                             .dhEmi = DateTime.Now.ToString("yyyy-MM-ddTHH:mm:sszzz"),
                             .tpNF = TNFeInfNFeIdeTpNF.Saida,
                             .idDest = TNFeInfNFeIdeIdDest.OpInterna,
